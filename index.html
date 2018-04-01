@@ -96,7 +96,6 @@
     var ddz = document.getElementsByTagName('dd');
     for(var i=0; i < ddz.length; i++) {
       ddz[i].addEventListener('click', function() {
-        console.log( this.querySelector('a'));
         this.querySelector('a').click();      
       });
     }
