@@ -1,15 +1,15 @@
 # 3dwardsharp
 
-## performance artist && /programmer/hacker/sysadminwitch/;
+### performance artist && /programmer/hacker/sysadminwitch/;
 
-## they/them;
+### they/them;
 
-### edwardsharp.\*
+## edwardsharp.\*
 
 http://edwardsharp.net
 http://edwardsharp.org
 
-### software/hacking
+## software/hacking
 
 https://github.com/edwardsharp/
 https://glitch.com/@edwardsharp
@@ -22,14 +22,14 @@ https://www.npmjs.com/~edwardsharp
 https://rubygems.org/profiles/edwardsharp
 https://edwardsharp.github.io/youoke/
 
-### social netz
+## social netz
 
 https://keybase.io/3dwardsharp
 http://twitter.com/3dwardsharp
 https://www.instagram.com/3dwardsharp/
 https://ello.co/3dwardsharp
 
-### media
+## media
 
 https://archive.org/details/@3dwardsharp
 https://www.youtube.com/channel/UCJz1rmUOBaYLYs1STEADpOw
@@ -44,7 +44,7 @@ https://nothappenings.tumblr.com/
 http://www.panoplylab.org/people/3dwardsharp
 http://www.panoplylab.org/people/edward-sharp
 
-### future_death_toll
+## future_death_toll
 
 http://futuredeathtoll.com
 https://www.youtube.com/user/futuredeathtoll
@@ -57,12 +57,12 @@ http://freemusicarchive.org/music/Future_Death_Toll/
 https://vimeo.com/user989512
 https://www.flickr.com/photos/futuredeathtolll/
 
-### futuredeath.agency
+## futuredeath.agency
 
 http://futuredeath.agency
 https://www.youtube.com/channel/UCUjnXGD3uCLozDz71xdaEug
 
-### lacuna
+## lacuna
 
 http://lacuna.club/archive.html
 https://lacunaclub.github.io/wiki/
